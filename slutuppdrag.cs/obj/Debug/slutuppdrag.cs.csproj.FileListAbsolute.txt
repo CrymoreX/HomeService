@@ -1,0 +1,6 @@
+/Users/konrad/Projects/slutuppdrag.cs/slutuppdrag.cs/obj/Debug/slutuppdrag.cs.csproj.AssemblyReference.cache
+/Users/konrad/Projects/slutuppdrag.cs/slutuppdrag.cs/obj/Debug/slutuppdrag.cs.csproj.CoreCompileInputs.cache
+/Users/konrad/Projects/slutuppdrag.cs/slutuppdrag.cs/bin/Debug/slutuppdrag.cs.exe
+/Users/konrad/Projects/slutuppdrag.cs/slutuppdrag.cs/bin/Debug/slutuppdrag.cs.pdb
+/Users/konrad/Projects/slutuppdrag.cs/slutuppdrag.cs/obj/Debug/slutuppdrag.cs.exe
+/Users/konrad/Projects/slutuppdrag.cs/slutuppdrag.cs/obj/Debug/slutuppdrag.cs.pdb

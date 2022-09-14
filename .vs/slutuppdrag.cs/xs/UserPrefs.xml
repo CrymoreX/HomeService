@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{77D9990D-45F0-4956-B36F-C677CED92CC6}|Default">
+  <MonoDevelop.Ide.ItemProperties.slutuppdrag.cs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="slutuppdrag.cs/Program.cs">
+    <Files>
+      <File FileName="slutuppdrag.cs/Program.cs" Line="142" Column="45" IsPinned="True" />
+      <File FileName="slutuppdrag.cs/Golv.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
